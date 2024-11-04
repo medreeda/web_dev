@@ -1,0 +1,14 @@
+{
+    "ar": {
+        "welcome": "مرحبًا بكم في موقع العقارات ",
+        "login": "تسجيل الدخول"
+    },
+    "fr": {
+        "welcome": "Bienvenue sur le site immobilier",
+        "login": "Connexion"
+    },
+    "en": {
+        "welcome": "Welcome to the real estate website",
+        "login": "Login"
+    }
+}
